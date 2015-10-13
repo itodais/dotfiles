@@ -1,0 +1,10 @@
+*~
+*#
+
+# for trial my emacs environment
+emacs/ac-comphist.dat
+emacs/elisps/
+emacs/elpa/
+emacs/history
+emacs/auto-save-list
+emacs/el-get
