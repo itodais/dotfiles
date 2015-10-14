@@ -147,10 +147,7 @@
 ;; (el-get-bundle zk-phi/ac-c-headers)
 ;; (el-get-bundle syohex/emacs-ac-alchemist :name ac-alchemist)
 
-;; ;; Helm plugins
-;; (el-get-bundle helm-descbinds)
-;; (el-get-bundle helm-gtags)
-;; (el-get-bundle helm-ag)
-;; (el-get-bundle syohex/emacs-helm-pydoc :name helm-pydoc)
-;; (el-get-bundle syohex/emacs-helm-perldoc :name helm-perldoc)
-;; (el-get-bundle syohex/emacs-helm-godoc :name helm-godoc)
+;; Helm plugins
+(el-get-bundle helm-descbinds)
+(el-get-bundle helm-gtags)
+(el-get-bundle helm-ag)
