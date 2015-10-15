@@ -78,8 +78,8 @@
 ;; ;;(el-get-bundle haskell/haskell-mode)
 ;; ;;(el-get-bundle ghc-mod)
 
-;; ;; CoffeeScript
-;; (el-get-bundle defunkt/coffee-mode)
+;; CoffeeScript
+(el-get-bundle defunkt/coffee-mode)
 
 ;; ;; Go
 ;; (el-get-bundle go-mode)
@@ -96,11 +96,11 @@
 ;; ;; Perl
 ;; (el-get-bundle hinrik/perl6-mode)
 
-;; ;; Ruby
-;; (el-get-bundle ruby-block)
-;; (el-get-bundle ruby-end)
-;; (el-get-bundle inf-ruby)
-;; (el-get-bundle dgutov/robe)
+;; Ruby
+(el-get-bundle ruby-block)
+(el-get-bundle ruby-end)
+(el-get-bundle inf-ruby)
+(el-get-bundle dgutov/robe)
 
 ;; ;; Emacs Lisp
 ;; (el-get-bundle purcell/elisp-slime-nav)
